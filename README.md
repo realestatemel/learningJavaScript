@@ -1,0 +1,2 @@
+# learningJavaScript
+codes for beginners
